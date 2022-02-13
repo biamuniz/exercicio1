@@ -1,14 +1,35 @@
-p{
-    
-    font-size: 50px;
-    margin: 50vh auto;
+h1{
+    font-family: montserrat;
+    text-align: center;
+    margin: auto;
     color: lightcoral;
     font-weight: bold;
-    width: 200px;
+    width: 600px;
     text-align: center;
-}
-
-body{
-    display: grid;
-    background-color: gainsboro;
-}
+  }
+  
+  p{
+      font-family: montserrat;
+      text-align: center;
+      font-size: medium;
+      margin: auto;
+      color: lightcoral;
+      width: 500px;
+      text-align: center;
+  }
+  
+  body{
+      background-color: gainsboro;
+  }
+  
+  
+  .links{
+    font-family: montserrat;
+      text-align: center;
+      font-size: medium;
+      margin: auto;
+      color: white;
+      width: 500px;
+      text-align: left
+    
+  }
