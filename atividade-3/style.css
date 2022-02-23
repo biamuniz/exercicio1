@@ -57,3 +57,8 @@ p.update-text {
     font-size: 15px;
     font-family: serif;
 }
+
+img{
+    width: 100%;
+    z-index: 0;
+}
